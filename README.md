@@ -1,6 +1,6 @@
 # Image-Steganography-using-Python-Tkinter
 
-To run this file just download the "imgstg.py" file and save it your system and using VS Code or any other code editor run this python file.
+To run this file just download the "imgstg.py" file and save it on your system and using VS Code or any other code editor run this python file.
 
 **Abstract :**
 
